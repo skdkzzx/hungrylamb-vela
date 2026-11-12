@@ -1,0 +1,43 @@
+{
+  "item": {
+    "id": "com.thehungrylamb.travel",
+    "restype": "quick_app",
+    "name": "饿殍：明末千里行",
+    "description": "《饿殍：明末千里行》小米手环移植版。\n非官方同人作品，与 AstroBox、小米及其他设备厂商无关；作品名称、角色、剧本与美术的版权归原作权利方所有，请支持正版。",
+    "preview": [
+      "media/xiaomi_band_pro-2026-11-11-23-02-01.png",
+      "media/xiaomi_band_pro-2026-11-11-23-01-27.png",
+      "media/xiaomi_band_pro-2026-11-11-23-02-18.png",
+      "media/xiaomi_band_pro-2026-11-11-23-02-25.png",
+      "media/notice_v3_1200x800.jpg"
+    ],
+    "icon": "media/logo.png",
+    "cover": "media/cover_v13_1200x800.jpg",
+    "author": [
+      {
+        "name": "skdkzzx",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "跳转下载",
+      "url": "https://pan.quark.cn/s/a5204ee78328",
+      "icon": "download"
+    }
+  ],
+  "downloads": {
+    "xmb9p": {
+      "version": "1.2.3",
+      "file_name": "downloads/com.thehungrylamb.travel.release.1.2.3.rpk",
+      "versionCode": 8
+    },
+    "xmb10p": {
+      "version": "1.2.3",
+      "file_name": "downloads/com.thehungrylamb.travel.release.1.2.3.rpk",
+      "versionCode": 8
+    }
+  },
+  "ext": {}
+}
